@@ -157,7 +157,7 @@
 <li><p class="first"><code class="docutils literal"><span class="pre">ContourPlot</span></code> は等高線を描くための関数ですが，等式を満たす点の軌跡を手軽に描くこともできます．この方法を使えば陽関数の形に表せない（あるいは困難な）場合でも関数をプロットすることができます．ここでは　<span class="math">\(\frac{\log x}{(\log y)^2}+2xy=0\)</span>　を満たす　<span class="math">\((x,y)\)</span>　の組をプロットしてみます． <code class="docutils literal"><span class="pre">ContourPlot</span></code> の引数を左辺の関数にして， <code class="docutils literal"><span class="pre">Contours-&gt;{0}</span></code> をオプションとして指定すれば同じような図は描けますが，軌跡だけが欲しい場合には塗りつぶしをオプションで取り除く必要があります．</p>
 <blockquote>
 <div><pre><code>ContourPlot[Log[x]/Log[y]^2 + 2 x y - 20 == 0, {x, 0, 10}, {y, 0, 10}]
-</pre></code><a class="reference internal image-reference" href="_sources/images/contour.jpg"><img alt="contour.jpg" src="_sources/images/contour.jpg" style="width: 250px; height: 250px;" /></a>
+</pre></code><a class="reference internal image-reference" href="./images/contour.jpg"><img alt="contour.jpg" src="./images/contour.jpg" style="width: 250px; height: 250px;" /></a>
 </div></blockquote>
 </li>
 </ul>
