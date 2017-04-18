@@ -11,5 +11,5 @@
 
 講義資料
 ---------
-* 4月12日 `演習問題解答 <lecture_files/KobeU_microex2017/sol1.pdf>`_
+* 4月12日 `演習問題解答 <https://github.com/K-KUMASHIRO/website/blob/master/lecture_files/KobeU_microex2017/sol1.pdf>`_
 
