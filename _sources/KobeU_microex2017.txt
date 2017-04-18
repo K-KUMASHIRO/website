@@ -1,0 +1,15 @@
+============================
+ミクロ経済学I演習（大学院）
+============================
+
+同時開講のミクロ経済学IA，ミクロ経済学IBに関する問題演習を行います．
+
+教科書
+---------
+* Jehle, G. A. and P. J. Reny Advanced Microeconomic Theory 3rd ed., Prentice Hall, 2011.
+
+
+講義資料
+---------
+* 4月12日 `演習問題解答 <lecture_files/KobeU_microex2017/sol1.pdf>`_
+

@@ -55,7 +55,7 @@ Mathematica
         <pre><code>ContourPlot[Log[x]/Log[y]^2 + 2 x y - 20 == 0, {x, 0, 10}, {y, 0, 10}]
         </pre></code>
 
-    .. image:: _sources/images/contour.jpg
+    .. image:: ./images/contour.jpg
         :height: 250
         :width: 250
         :alt: contour.jpg

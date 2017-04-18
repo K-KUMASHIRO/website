@@ -11,7 +11,7 @@ Kazuki Kumashiro
    :maxdepth: 1
 
    profile
-   lecture
+   teaching
    TIPS
 
 
