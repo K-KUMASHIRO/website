@@ -11,5 +11,6 @@
 
 講義資料
 ---------
-* 4月12日 `演習問題解答 <./lecture_files/KobeU_microex2017/sol1.pdf>`_
+* 4月12日 `配布資料 <./lecture_files/KobeU_microex2017/handout1.pdf>`_ ・ `演習問題解答 <./lecture_files/KobeU_microex2017/sol1.pdf>`_
+* 4月19日 `配布資料 <./lecture_files/KobeU_microex2017/handout2.pdf>`_ ・ `演習問題解答 <./lecture_files/KobeU_microex2017/sol2.pdf>`_
 
