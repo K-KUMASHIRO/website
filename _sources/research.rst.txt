@@ -1,0 +1,44 @@
+======================
+研究・出版物等
+======================
+
+論文
+==========
+
+* "Optimal Funded Pension for Consumers with Heterogeneous Self-Control", 神戸大学大学院経済学研究科ワーキングペーパー, No. 314, 2015
+
+* "The Theoretical Analysis of Economic Behaviors with Psychological Factors", 神戸大学大学院経済学研究科博士論文, 2016
+
+* Economic Analysis of Psychological Reactance, 宮川栄一氏との共著, Graduate School of Economics, Kobe University, Discussion Paper, No. 1712, 2017
+
+一般向け記事
+=============
+
+* 『経済学者が読み解く現代社会のリアル』, 週刊東洋経済, forthcoming（:doc:`参考文献<toyokeizai2020>`）
+
+研究報告
+===========
+
+.. list-table:: 過去の報告
+  :header-rows: 1
+  :widths: 10 90
+  :align: left
+
+  * - 年
+    - 学会・研究会
+  * - 2019 
+    - * 関西応用経済学研究会＠鹿児島国際大学
+  * - 2018
+    - * 経済学研究会＠岡山商科大学
+      * 関西応用経済学研究会＠徳山大学
+  * - 2017
+    - * ミクロ経済学・ゲーム理論研究会＠京都大学
+      * Decision Theory Workshop＠岩手県立大学
+      * The Osaka Workshop on Economics of Institutions and Organizations＠大阪大学
+  * - 2015
+    - * 社研セミナー＠大阪大学
+  * - 2014
+    - * 日本経済学会2014年春季大会（ポスター）＠同志社大学
+  * - 2013
+    - * 若手研究者による経済学研究会＠神戸大学
+      * 六甲フォーラム＠神戸大学
