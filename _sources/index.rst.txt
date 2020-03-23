@@ -3,9 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Kazuki Kumashiro
+熊代　和樹
 ================
-
+岡山商科大学経済学部　専任講師
 
 .. toctree::
    :maxdepth: 1
