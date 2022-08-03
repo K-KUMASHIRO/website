@@ -6,19 +6,28 @@
 ==============
 行動経済学・ゲーム理論・ミクロ経済学
 
+進行中の研究
+==============
+
+#. "Optimal Funded Pension for Consumers with Heterogeneous Self-Control" （以下のワーキングペーパーの改訂版）, :download:`論文 <_static/paper/pension.pdf>`
+
+#. "Who holds the purse string?"（仮題）, 津川修一氏との共同研究
+
+#. "ナッジを活用した高年齢者の労働供給に関する研究", 國光類氏，三谷直紀氏，佐々木昭洋氏との共同研究
+
 論文
 ==========
 
-* "Optimal Funded Pension for Consumers with Heterogeneous Self-Control", 神戸大学大学院経済学研究科ワーキングペーパー, No. 314, 2015
+#. "Optimal Funded Pension for Consumers with Heterogeneous Self-Control", 神戸大学大学院経済学研究科ワーキングペーパー, No. 314, 2015
 
-* "The Theoretical Analysis of Economic Behaviors with Psychological Factors", 神戸大学大学院経済学研究科博士論文, 2016
+#. "The Theoretical Analysis of Economic Behaviors with Psychological Factors", 神戸大学大学院経済学研究科博士論文, 2016
 
-* Economic Analysis of Psychological Reactance, 宮川栄一氏との共著, Graduate School of Economics, Kobe University, Discussion Paper, No. 1712, 2017
+#. Economic Analysis of Psychological Reactance, 宮川栄一氏との共著, Graduate School of Economics, Kobe University, Discussion Paper, No. 1712, 2017
 
 寄稿
 =============
 
-* 禁止されるとしたくなる―「リアクタンス」の経済学, 週刊東洋経済, 2020年3月28日号（:doc:`参考文献<toyokeizai2020>`）
+#. 禁止されるとしたくなる―「リアクタンス」の経済学, 週刊東洋経済, 2020年3月28日号（:doc:`参考文献<toyokeizai2020>`）
 
 研究報告
 ===========
