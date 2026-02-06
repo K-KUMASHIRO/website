@@ -1,0 +1,22 @@
+journal_articles:
+  - year: 2023
+    title: "Pension as a Commitment Device and Borrowing Constraints"
+    coauthors:
+    journal: "Journal of Okayama Shoka University"
+    volume: 59
+    number: 1
+    pages: 
+    doi: 
+
+working_papers:
+  - year: 2015
+    title: "Optimal Funded Pension for Consumers with Heterogeneous Self-Control"
+    coauthors:
+    media: "Working Paper, Graduate School of Economics, Kobe University"
+    number: "314"
+  
+  - year: 2017
+    title: "Economic Analysis of Psychological Reactance"
+    coauthors: Eiichi Miyagawa
+    media: "Discussion Paper, Graduate School of Economics, Kobe University"
+    number: "1712"

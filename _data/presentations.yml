@@ -1,0 +1,56 @@
+conference_presentations:
+  - year: 2025
+    title: "Resource allocation in repeated contest under present bias"
+    coauthors: "Shuichi Tsugawa"
+    conference: "11th Annual Conference - Contests: Theory and Evidence"
+    location: "RMIT, Melbourne"
+    type: "Conference presentation"
+
+  - year: 2024
+    title: "Voluntary provision of durable public goods under present-bias and time inconsistency"
+    coauthors: "Shuichi Tsugawa"
+    conference: "28th meeting of The Japanese Public Choice Society"
+    location: "Doshisha University, Kyoto"
+    type: "poster"
+
+  - year: 2022
+    title: "Household Bargaining with Public Durable Goods"
+    coauthors: "Shuichi Tsugawa"
+    conference: "Kansai Workshop on Applied Economics"
+    location: "Akita University"
+    type: 
+
+  - year: 2020
+    title: "Who holds the Purse Strings"
+    coauthors: "Shuichi Tsugawa"
+    conference: "Kansai Workshop on Applied Economics"
+    location: "The International University of Kagoshima"
+    type: 
+
+  - year: 2019
+    title: "The Economic Analysis of Psychological Reactance"
+    coauthors: "Eiichi Miyagawa"
+    conference: "Kansai Workshop on Applied Economics"
+    location: "Tokuyama University, Yamaguchi"
+    type: 
+
+  - year: 2017
+    title: "Optimal Funded Pension for Consumers with heterogeneous Self-Control"
+    coauthors: 
+    conference: "Workshop on Microeconomics and Game Theory"
+    location: "Kyoto University"
+    type: 
+
+  - year: 2017
+    title: "Optimal Funded Pension for Consumers with heterogeneous Self-Control"
+    coauthors: 
+    conference: "Decision Theory Workshop"
+    location: "Iwate Prefectural University"
+    type:
+
+  - year: 2017
+    title: "Optimal Funded Pension for Consumers with heterogeneous Self-Control"
+    coauthors: 
+    conference: "The Osaka Workshop on Economics of Institutions and Organizations"
+    location: "Osaka University"
+    type: 
