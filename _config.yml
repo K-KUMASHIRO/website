@@ -2,7 +2,7 @@ title: "Kazuki Kumashiro"
 tagline: ""
 description: ""
 url: "https://k-kumashiro.github.io"
-baseurl: "/website"
+baseurl: ""
 
 remote_theme: hydecorp/hydejack@v9
 
