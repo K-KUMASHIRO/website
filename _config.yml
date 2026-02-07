@@ -3,8 +3,11 @@ tagline: ""
 description: ""
 url: "https://k-kumashiro.github.io"
 baseurl: ""
+accent_image: assets/img/menu_bg.png
+favicon: assets/img/favicon.png
 
 remote_theme: hydecorp/hydejack@v9
+
 
 plugins:
   - jekyll-remote-theme
