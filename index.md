@@ -15,11 +15,11 @@ Microeconomic Theory, Game Theory, Behavioral Economics, Public Economics
 
 ## Pages
 
-[Research](/research/)
+[Research]({{ "/research/" | relative_url }})
 
-[Teaching](/teaching/)
+[Teaching]({{ "/teaching/" | relative_url }})
 
-[CV](/cv/)
+[CV]({{ "/cv/" | relative_url }})
 
 
 ## Contact
