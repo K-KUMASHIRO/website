@@ -3,7 +3,7 @@ layout: page
 title: Kazuki Kumashiro
 ---
 
-<style>
+<!-- <style>
 #_sidebar {
   position: relative;
   text-shadow: 0 4px 12px rgba(0, 0, 0, 0.7);
@@ -20,7 +20,7 @@ title: Kazuki Kumashiro
   backdrop-filter: saturate(110%);
   pointer-events: none;
 }
-</style>
+</style> -->
 
 ## Affiliation
 
