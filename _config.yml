@@ -17,6 +17,7 @@ legal:
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 author:
   name: "Kazuki Kumashiro"
