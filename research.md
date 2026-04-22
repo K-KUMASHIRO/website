@@ -22,10 +22,10 @@ order: 1
 {% for p in site.data.publications.working_papers %}
 - {% if p.url %}
       <a href="{{ p.url }}" target="_blank">
-        "**{{ p.title }}**"
+        **{{ p.title }}**
       </a>
     {% else %}
-      "**{{ p.title }}**"
+      **{{ p.title }}**
     {% endif %} {% if p.coauthors %}(with {{ p.coauthors }}){% endif %},  
   {{ p.media }} ({{ p.year }})
   {% if p.number %}No.{{ p.number }}. {% endif %} 
