@@ -1,4 +1,18 @@
 conference_presentations:
+  - year: 2026
+    title: "Resource allocation in repeated contest under present bias"
+    coauthors: "Shuichi Tsugawa"
+    conference: "11th Singapore Economic Review Conference (planned)"
+    location: "Voco Singapore"
+    type: "Conference presentation"
+
+  - year: 2026
+    title: "Resource allocation in repeated contest under present bias"
+    coauthors: "Shuichi Tsugawa"
+    conference: "18th Meeting of the Society for Social Choice and Welfare (planned)"
+    location: "University of Tokyo"
+    type: "Conference presentation"
+
   - year: 2025
     title: "Resource allocation in repeated contest under present bias"
     coauthors: "Shuichi Tsugawa"

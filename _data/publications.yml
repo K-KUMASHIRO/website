@@ -9,6 +9,11 @@ journal_articles:
     doi: 
 
 working_papers:
+  - year: 2026
+    title: "Voluntary provision of durable public goods under present bias"
+    coauthors: Shuichi Tsugawa
+    media: "SSRN WP"
+    url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6586259"
   - year: 2017
     title: "Economic Analysis of Psychological Reactance"
     coauthors: Eiichi Miyagawa
